@@ -1,0 +1,3 @@
+Tue 15 Aug 2017 21:46:12 AEST 
+stack --version && stack clean && stack build && stack install && stack sdist && stack test
+
